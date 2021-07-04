@@ -20,3 +20,4 @@ function draw() {
 
 function AI_MUSIC() {
     window.loaction.href = "";
+}
